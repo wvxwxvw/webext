@@ -7,7 +7,7 @@
 * Страница программы:
 https://www.voidtools.com/
 
-* Страница расширения на AMO:
+* Страница расширения:
 https://addons.mozilla.org/ru/firefox/addon/everything-search-we/
 
 Предварительно включите в Everything URL-протокол:
