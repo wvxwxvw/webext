@@ -1,10 +1,12 @@
 # Everything Search WE
 
-Это форк.
+Это форк. Русский перевод + небольшие правки.
 
-Русский перевод + небольшие правки.
+Расширение позволяет искать выделенный на странице текст в файловом поисковике Everything.
 
-
-
-* Страница на AMO:
+* Страница расширения на AMO:
 https://addons.mozilla.org/ru/firefox/addon/everything-search-we/
+
+Предварительно включите в Everything URL-протокол:
+
+![protocol.png](https://i.imgur.com/f0QnHoN.png)
