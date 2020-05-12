@@ -4,6 +4,9 @@
 
 Расширение позволяет искать выделенный на странице текст в файловом поисковике Everything.
 
+* Страница программы:
+https://www.voidtools.com/
+
 * Страница расширения на AMO:
 https://addons.mozilla.org/ru/firefox/addon/everything-search-we/
 
