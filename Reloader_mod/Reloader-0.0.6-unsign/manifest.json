@@ -1,0 +1,49 @@
+{
+    "name": "__MSG_extension_name__"
+  , "description": "__MSG_extension_description__"
+  , "version": "0.0.6"
+  , "author": "Matt Hensman <m@matt.tf>"
+
+  , "icons": {
+        "48": "icon.svg"
+      , "96": "icon.svg"
+    }
+
+  , "default_locale": "en"
+  , "manifest_version": 2
+
+  , "applications": {
+        "gecko": {
+            "id": "reloader@matt.tf"
+          , "strict_min_version": "55.0"
+        }
+    }
+
+  , "background": {
+        "scripts": [
+            "main.js"
+        ]
+      , "persistent": false
+    }
+
+  , "page_action": {}
+  , "browser_action": {
+        "default_area": "menupanel"
+    }
+
+  , "commands": {
+        "empty_cache_and_hard_reload": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+F5"
+            }
+        }
+    }
+
+  , "permissions": [
+        "activeTab"
+      , "management"
+      , "theme"
+      , "menus"
+      , "browsingData"
+    ]
+}
