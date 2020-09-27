@@ -1,4 +1,4 @@
-# bbCodeWebEx <img src="https://github.com/msaroff/bbCodeWebEx/blob/master/icons/bbcwbx.svg" style="cursor: pointer; float: center" width="40">
+# <img src="https://github.com/msaroff/bbCodeWebEx/blob/master/icons/bbcwbx.svg" style="cursor: pointer; float: left" width="40"> bbCodeWebEx 
 Это форк, оригинал здесь - [ msaroff / bbCodeWebEx ](https://github.com/msaroff/bbCodeWebEx)  
 
 Это Webextensions версия расширения bbCodeXtra, возможно знакомого вам по доквантумному Firefox.
