@@ -14,4 +14,4 @@
 В России летом, после переключения зоны, требуется ручная корректировка -1 час.
 Это косяк автора.
 
-Лучше использовать <a href="https://github.com/wvxwxvw/webext/tree/master/Spoof%20Timezone%20(VitaliyV)" target="_blank">это</a>
+Лучше использовать <a href="https://github.com/wvxwxvw/webext/tree/master/Spoof%20Timezone%20(VitaliyV)" target="_blank">это расширение</a>.
