@@ -9,7 +9,7 @@
 <a href="https://addons.mozilla.org/ru/firefox/addon/spoof-timezone/" target="_blank">https://addons.mozilla.org/ru/firefox/addon/spoof-timezone/</a>
 
 * При запуске браузера должен менять локальное время браузера случайно или в соответствии с текущим IP (если это задано в настройках)  
-* Переход на зимнее/летнее время рассчитывается автоматически (в отличии от <a href="https://addons.mozilla.org/ru/firefox/addon/change-timezone-time-shift/" target="_blank">этой кривулины</a>)
+* Переход на зимнее/летнее время рассчитывается автоматически (в отличии от <a href="https://addons.mozilla.org/ru/firefox/addon/change-timezone-time-shift/" target="_blank">этого</a>)
 
 Отличия версии VitaliyV от исходника
 * Оптимизированы код и структура расширения
