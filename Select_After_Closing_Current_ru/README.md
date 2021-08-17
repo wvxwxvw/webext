@@ -1,6 +1,6 @@
 ## Select After Closing Current
   
-Это переведенная версия.  
+Автор принял перевод.  
   
 Страницы оригинала - <a href="https://addons.mozilla.org/en-US/firefox/addon/select-after-closing-current/" target="_blank">AMO</a> | <a href="https://github.com/jingyu9575/select-after-closing-current" target="_blank">GitHub</a>
   
