@@ -5,7 +5,7 @@
   
 Перевел и чуть облегчил. Расширение может оказаться полезным для тех кто не пользуется NoScript
   
-Темный стиль для [этого профиля](https://github.com/wvxwxvw/LibPortablePlus/tree/main/profiles_91esr):
+Темный стиль для [этих профилей](https://github.com/wvxwxvw/LibPortablePlus/tree/main/Profiles_91_ESR_LPP):
 ```
 @-moz-document url-prefix(moz-extension://uuid/) {
 .button {
