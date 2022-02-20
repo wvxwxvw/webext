@@ -1,5 +1,5 @@
 ## Swift Selection Search
-Оригинал здесь - <a href="https://addons.mozilla.org/ru/firefox/addon/swift-selection-search/" target="_blank">https://addons.mozilla.org/ru/firefox/addon/swift-selection-search//</a>
+Оригинал здесь - <a href="https://addons.mozilla.org/ru/firefox/addon/swift-selection-search/" target="_blank">https://addons.mozilla.org/ru/firefox/addon/swift-selection-search/</a>
   
 Простенькое расширение для поиска через всплывающее окно или контекстное меню, в отличии от "Selection Context Search" поиск по картинкам добавить нельзя, с контекстами не работает (только выделенный текст), в меню вкладок не добавляется. В общем аналог для "нищих", но зато можно импортировать браузерные поиски и настроить внешний вид всплывающей панели, и еще автокопирование в буфер вроде работает стабильно.
   
