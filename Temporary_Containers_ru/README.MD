@@ -18,19 +18,15 @@
 ```
 /*------ Temporary Containers --------*/
 @-moz-document url-prefix(moz-extension://вписать uuid/) {
-
 html, body, .dropdown.selection, .menu .item, .ui.menu {
-    background: #222 !important
-  }
-
+    background: #222 !important}
 .ui.small.message.visible, [data-tooltip]:hover::after, [data-tooltip]:hover::before {
-    background-color: #222 !important; 
+    background-color: #222 !important;
     border: 1px solid #888 !important;
     color: #ccc !important}
-  }
 
 input[type="text"], #scriptCode {
-  background-color: #444 !important; 
+  background-color: #444 !important;
   border: 1px solid #666 !important;
   color: #ddd !important}
 
@@ -45,8 +41,7 @@ input[type="text"]:focus, #scriptCode:focus {border: 1px solid #0a84ff !importan
 .item.active, .dropdown.selection, .text, .label {color: #ddd !important}
 
 i.icon {
-    color: #ccc !important
-}
+    color: #ccc !important}
 
 .item:not(.active):hover{background: #282828 !important}
 
@@ -65,8 +60,7 @@ i.icon {
 
 .ui.tiny.button:hover {
   background-color: #666 !important;
-  color: #fff !important;
-  }
+  color: #fff !important;}
 
 .ui.notice.message a:link, .ui.notice.message a {color: #09f !important}
 .ui.notice.message a:visited {color: #0070aa !important}
@@ -78,12 +72,10 @@ i.icon {
 label::before, .ui.popup {filter: invert(75%)}
 
 .ui.checkbox input:checked ~ label::after {
-    color: #09f !important;
-  }
+    color: #09f !important;}
 
 a.ui.label.transition.visible {
-    background-color: #111 !important;
-}
+    background-color: #111 !important;}
 
 }
 ```
