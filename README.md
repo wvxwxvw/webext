@@ -26,7 +26,7 @@ Firefox версий Extended Support Release (ESR), Developer Edition и Nightl
 		}
 	}
 ```
-[Подробнее ...](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings)  
+[browser_specific_settings - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings)  
 - Измените ID расширения на свой уникальный вариант  
 -- ID может быть или [GUID](https://ru.wikipedia.org/wiki/GUID) или строка текста, похожая на e-mail,  
 -- например, `super_extension@github.com`  
